@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.present{
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    background-image: url(Images/LogoPresent9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navegacion{
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.botom{
+    color: #099481;
+    text-decoration: none;
+    font-family: 'B612', sans-serif;
+}
+
+.tabla{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.tabla1{
+    width: 300px;
+    text-align: center;
+}
+
+.tabla2{
+    width: 500px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.foto{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    background-image: url(Images/foto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.derechos{
+    text-align: center;
+    color: rgb(156, 156, 156);
+}
